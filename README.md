@@ -1,2 +1,2 @@
 # repohzy-test1
-i'm gitting yall
+Hey there! this is Hami. First attempt doing branch and stuff
